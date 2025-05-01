@@ -1,0 +1,14 @@
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\bin\Debug\net7.0\Villa.DtoLayer.deps.json
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\bin\Debug\net7.0\Villa.DtoLayer.runtimeconfig.json
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\bin\Debug\net7.0\Villa.DtoLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\bin\Debug\net7.0\Villa.DtoLayer.pdb
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\Villa.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\Villa.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\Villa.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\Villa.DtoLayer.AssemblyInfo.cs
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\Villa.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\Villa.DtoLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\refint\Villa.DtoLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\Villa.DtoLayer.pdb
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\Villa.DtoLayer.genruntimeconfig.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.DtoLayer\Villa.DtoLayer\obj\Debug\net7.0\ref\Villa.DtoLayer.dll

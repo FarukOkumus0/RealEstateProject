@@ -1,0 +1,26 @@
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
+using Villa.BusinessLayer.Abstract;
+using Villa.DtoLayer.Dtos.CounterDtos;
+
+namespace Villa.WebUI.ViewComponents.Default_Index
+{
+	public class _DefaultCounter : ViewComponent
+	{
+		private readonly ICounterService _counterService;
+		private readonly IMapper _mapper;
+
+		public _DefaultCounter(ICounterService counterService, IMapper mapper)
+		{
+			_counterService = counterService;
+			_mapper = mapper;
+		}
+
+		public async Task<IViewComponentResult> InvokeAsync()
+		{
+			var values = await _counterService.TGetListAsync();
+			var counterList = _mapper.Map<List<ResultCounterDto>>(values);
+			return View(counterList);
+		}
+	}
+}

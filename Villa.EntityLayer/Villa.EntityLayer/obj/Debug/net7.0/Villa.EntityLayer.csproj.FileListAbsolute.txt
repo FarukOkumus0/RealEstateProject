@@ -1,0 +1,14 @@
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\bin\Debug\net7.0\Villa.EntityLayer.deps.json
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\bin\Debug\net7.0\Villa.EntityLayer.runtimeconfig.json
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\bin\Debug\net7.0\Villa.EntityLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\bin\Debug\net7.0\Villa.EntityLayer.pdb
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\Villa.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\Villa.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\Villa.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\Villa.EntityLayer.AssemblyInfo.cs
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\Villa.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\Villa.EntityLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\refint\Villa.EntityLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\Villa.EntityLayer.pdb
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\Villa.EntityLayer.genruntimeconfig.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.EntityLayer\Villa.EntityLayer\obj\Debug\net7.0\ref\Villa.EntityLayer.dll

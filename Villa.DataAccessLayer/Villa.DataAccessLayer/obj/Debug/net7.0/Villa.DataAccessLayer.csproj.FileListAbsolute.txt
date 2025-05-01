@@ -1,0 +1,17 @@
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\bin\Debug\net7.0\Villa.DataAccessLayer.deps.json
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\bin\Debug\net7.0\Villa.DataAccessLayer.runtimeconfig.json
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\bin\Debug\net7.0\Villa.DataAccessLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\bin\Debug\net7.0\Villa.DataAccessLayer.pdb
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\bin\Debug\net7.0\Villa.EntityLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\bin\Debug\net7.0\Villa.EntityLayer.pdb
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\Villa.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\Villa.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\Villa.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\Villa.DataAccessLayer.AssemblyInfo.cs
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\Villa.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\Villa.Da.A6559DF8.Up2Date
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\Villa.DataAccessLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\refint\Villa.DataAccessLayer.dll
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\Villa.DataAccessLayer.pdb
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\Villa.DataAccessLayer.genruntimeconfig.cache
+C:\Users\faruk\source\repos\MyVilla\Villa.DataAccessLayer\Villa.DataAccessLayer\obj\Debug\net7.0\ref\Villa.DataAccessLayer.dll

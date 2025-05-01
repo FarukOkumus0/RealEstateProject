@@ -1,0 +1,53 @@
+﻿@model ResultProductDto
+@{
+    ViewData["Title"] = "Mülk Detaylar Sayfası";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<table class="table table-striped">
+    <tr>
+        <th><img src="@Model.ImageUrl" style="height:200px;width:200px" class="text-center" /></th>
+    </tr>
+    <tr>
+        <th>Başlık:</th>
+        <td>@Model.Title</td>
+    </tr>
+    <tr>
+        <th>Kategori:</th>
+        <td>@Model.Category</td>
+    </tr>
+    <tr>
+        <th>Fiyat:</th>
+        <td>@Model.Price $</td>
+    </tr>
+    <tr>
+        <th>Oda Sayısı:</th>
+        <td>@Model.BedroomCount</td>
+    </tr>
+    <tr>
+        <th>Banyo Sayısı:</th>
+        <td>@Model.BathroomCount</td>
+    </tr>
+    <tr>
+        <th>Oda Sayısı:</th>
+        <td>@Model.BathroomCount</td>
+    </tr>
+    <tr>
+        <th>M2:</th>
+        <td>@Model.Area</td>
+    </tr>
+    <tr>
+        <th>Kat Sayısı:</th>
+        <td>@Model.Floor</td>
+    </tr>
+    <tr>
+        <th>Park Alanı:</th>
+        <td>@Model.ParkingCount</td>
+    </tr>
+    <tr>
+        <th>Oda Sayısı:</th>
+        <td>@Model.BathroomCount</td>
+    </tr>
+</table>
+
+<a asp-asp-controller="Product" asp-action="Index" class="btn btn-dark">Mülklere Geri Dön</a>
