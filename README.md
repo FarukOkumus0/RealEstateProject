@@ -1,6 +1,6 @@
 AspNet Core 7.0 ile admin ve vitrin panelleri bulunan uygulama yapısıyla geliştirildi. 
 Bu uygulamada backend kısmında N tier Architect ile DataAccess, Entity, Business, Dto katmanları ve frontend'te Presentation(UI) katmanları ile kodlandı.
-Projeyi mimariye ve solid prensiplerine olabildiğince bağlı kalarak temiz kod prenseplerinde kodladım.
+Projeyi mimariye ve solid prensiplerine olabildiğince bağlı kalarak temiz kod prensiplerinde kodladım.
 Veritabanı olarak MongoDb kullanıldı.
 
 Genel olarak kullanılan teknolojiler:
